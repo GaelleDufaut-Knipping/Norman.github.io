@@ -68,6 +68,8 @@ body {
           transform: translate(100%, -50%);
 }
 
+
+
 /*header section*/
 .hero_area {
   height: 100vh;
@@ -709,6 +711,7 @@ a:focus {
 .footer_section a {
   color: #fbfcfd;
 }
+fec016
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
